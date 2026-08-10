@@ -1,0 +1,61 @@
+Transaction_ID,Timestamp,Transaction_Type,Product_ID,Product_Name,Category,Quantity_Change,Unit,Previous_Stock,New_Stock,Notes
+TXN-1786378859570,2026-08-10 21:50:59,SALE,PRD-TOM-CYC,Tomato,Vegetables,-20.0,kg,35.0,15.0,Sold 20.0 kg under Bill BILL-1786378859563. Remaining stock: 15.0 kg.
+TXN-1786378859479,2026-08-10 21:50:59,MERGE_ADD,PRD-TOM-CYC,Tomato,Vegetables,15.0,units,20.0,35.0,Merged +15.0 units into existing stock (20.0 -> 35.0)
+TXN-1786378859469,2026-08-10 21:50:59,SALE,PRD-TOMATO-01,Tomato,Vegetables,-20.0,kg,50.0,30.0,Sold 20.0 kg under Bill BILL-1786378859462. Remaining stock: 30.0 kg.
+TXN-1786378859368,2026-08-10 21:50:59,NEW_PRODUCT,PRD-BREA-8859,Bread,Bakery,25.0,units,0.0,25.0,Created new product 'Bread' with initial stock 25.0 units.
+TXN-1786378859358,2026-08-10 21:50:59,NEW_PRODUCT,PRD-MILK-8859,Milk,Dairy,30.0,l,0.0,30.0,Created new product 'Milk' with initial stock 30.0 l.
+TXN-1786378859348,2026-08-10 21:50:59,MERGE_ADD,PRD-POTA-8859,Potato,Vegetables,20.0,kg,25.0,45.0,Merged +20.0 kg into existing stock (25.0 -> 45.0)
+TXN-1786378859338,2026-08-10 21:50:59,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,35.0,50.0,Merged +15.0 kg into existing stock (35.0 -> 50.0)
+TXN-1786378859323,2026-08-10 21:50:59,NEW_PRODUCT,PRD-POTA-8859,Potato,Vegetables,25.0,kg,0.0,25.0,Created new product 'Potato' with initial stock 25.0 kg.
+TXN-1786378859223,2026-08-10 21:50:59,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,20.0,35.0,Merged +15.0 kg into existing stock (20.0 -> 35.0)
+TXN-1786378191662,2026-08-10 21:39:51,MERGE_ADD,PRD-9999,Sunscreen Lotion SPF 50,Personal Care,15.0,units,140.0,155.0,Merged +15.0 units into existing stock (140.0 -> 155.0)
+TXN-1786377910861,2026-08-10 21:35:10,SALE,PRD-TOM-CYC,Tomato,Vegetables,-20.0,kg,35.0,15.0,Sold 20.0 kg under Bill BILL-1786377910854. Remaining stock: 15.0 kg.
+TXN-1786377910785,2026-08-10 21:35:10,MERGE_ADD,PRD-TOM-CYC,Tomato,Vegetables,15.0,units,20.0,35.0,Merged +15.0 units into existing stock (20.0 -> 35.0)
+TXN-1786377910777,2026-08-10 21:35:10,SALE,PRD-TOMATO-01,Tomato,Vegetables,-20.0,kg,50.0,30.0,Sold 20.0 kg under Bill BILL-1786377910770. Remaining stock: 30.0 kg.
+TXN-1786377910687,2026-08-10 21:35:10,NEW_PRODUCT,PRD-BREA-7910,Bread,Bakery,25.0,units,0.0,25.0,Created new product 'Bread' with initial stock 25.0 units.
+TXN-1786377910678,2026-08-10 21:35:10,NEW_PRODUCT,PRD-MILK-7910,Milk,Dairy,30.0,l,0.0,30.0,Created new product 'Milk' with initial stock 30.0 l.
+TXN-1786377910669,2026-08-10 21:35:10,MERGE_ADD,PRD-POTA-7910,Potato,Vegetables,20.0,kg,25.0,45.0,Merged +20.0 kg into existing stock (25.0 -> 45.0)
+TXN-1786377910659,2026-08-10 21:35:10,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,35.0,50.0,Merged +15.0 kg into existing stock (35.0 -> 50.0)
+TXN-1786377910644,2026-08-10 21:35:10,NEW_PRODUCT,PRD-POTA-7910,Potato,Vegetables,25.0,kg,0.0,25.0,Created new product 'Potato' with initial stock 25.0 kg.
+TXN-1786377910557,2026-08-10 21:35:10,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,20.0,35.0,Merged +15.0 kg into existing stock (20.0 -> 35.0)
+TXN-1786377755061,2026-08-10 21:32:35,SALE,PRD-TOM-CYC,Tomato,Vegetables,-20.0,kg,35.0,15.0,Sold 20.0 kg under Bill BILL-1786377755056. Remaining stock: 15.0 kg.
+TXN-1786377754974,2026-08-10 21:32:34,MERGE_ADD,PRD-TOM-CYC,Tomato,Vegetables,15.0,units,20.0,35.0,Merged +15.0 units into existing stock (20.0 -> 35.0)
+TXN-1786377754962,2026-08-10 21:32:34,SALE,PRD-TOMATO-01,Tomato,Vegetables,-20.0,kg,50.0,30.0,Sold 20.0 kg under Bill BILL-1786377754956. Remaining stock: 30.0 kg.
+TXN-1786377754872,2026-08-10 21:32:34,NEW_PRODUCT,PRD-BREA-7754,Bread,Bakery,25.0,units,0.0,25.0,Created new product 'Bread' with initial stock 25.0 units.
+TXN-1786377754862,2026-08-10 21:32:34,NEW_PRODUCT,PRD-MILK-7754,Milk,Dairy,30.0,l,0.0,30.0,Created new product 'Milk' with initial stock 30.0 l.
+TXN-1786377754853,2026-08-10 21:32:34,MERGE_ADD,PRD-POTA-7754,Potato,Vegetables,20.0,kg,25.0,45.0,Merged +20.0 kg into existing stock (25.0 -> 45.0)
+TXN-1786377754842,2026-08-10 21:32:34,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,35.0,50.0,Merged +15.0 kg into existing stock (35.0 -> 50.0)
+TXN-1786377754830,2026-08-10 21:32:34,NEW_PRODUCT,PRD-POTA-7754,Potato,Vegetables,25.0,kg,0.0,25.0,Created new product 'Potato' with initial stock 25.0 kg.
+TXN-1786377754741,2026-08-10 21:32:34,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,20.0,35.0,Merged +15.0 kg into existing stock (20.0 -> 35.0)
+TXN-1786376771309,2026-08-10 21:16:11,SALE,PRD-TOM-CYC,Tomato,Vegetables,-20.0,kg,35.0,15.0,Sold 20.0 kg under Bill BILL-1786376771305. Remaining stock: 15.0 kg.
+TXN-1786376771251,2026-08-10 21:16:11,MERGE_ADD,PRD-TOM-CYC,Tomato,Vegetables,15.0,units,20.0,35.0,Merged +15.0 units into existing stock (20.0 -> 35.0)
+TXN-1786376771246,2026-08-10 21:16:11,SALE,PRD-TOMATO-01,Tomato,Vegetables,-20.0,kg,50.0,30.0,Sold 20.0 kg under Bill BILL-1786376771241. Remaining stock: 30.0 kg.
+TXN-1786376771187,2026-08-10 21:16:11,NEW_PRODUCT,PRD-BREA-6771,Bread,Bakery,25.0,units,0.0,25.0,Created new product 'Bread' with initial stock 25.0 units.
+TXN-1786376771181,2026-08-10 21:16:11,NEW_PRODUCT,PRD-MILK-6771,Milk,Dairy,30.0,l,0.0,30.0,Created new product 'Milk' with initial stock 30.0 l.
+TXN-1786376771175,2026-08-10 21:16:11,MERGE_ADD,PRD-POTA-6771,Potato,Vegetables,20.0,kg,25.0,45.0,Merged +20.0 kg into existing stock (25.0 -> 45.0)
+TXN-1786376771170,2026-08-10 21:16:11,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,35.0,50.0,Merged +15.0 kg into existing stock (35.0 -> 50.0)
+TXN-1786376771161,2026-08-10 21:16:11,NEW_PRODUCT,PRD-POTA-6771,Potato,Vegetables,25.0,kg,0.0,25.0,Created new product 'Potato' with initial stock 25.0 kg.
+TXN-1786376771105,2026-08-10 21:16:11,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,20.0,35.0,Merged +15.0 kg into existing stock (20.0 -> 35.0)
+TXN-1786376432936,2026-08-10 21:10:32,SALE,PRD-TOM-CYC,Tomato,Vegetables,-20.0,kg,35.0,15.0,Sold 20.0 kg under Bill BILL-1786376432930. Remaining stock: 15.0 kg.
+TXN-1786376432874,2026-08-10 21:10:32,MERGE_ADD,PRD-TOM-CYC,Tomato,Vegetables,15.0,units,20.0,35.0,Merged +15.0 units into existing stock (20.0 -> 35.0)
+TXN-1786376432868,2026-08-10 21:10:32,SALE,PRD-TOMATO-01,Tomato,Vegetables,-20.0,kg,50.0,30.0,Sold 20.0 kg under Bill BILL-1786376432864. Remaining stock: 30.0 kg.
+TXN-1786376432802,2026-08-10 21:10:32,NEW_PRODUCT,PRD-BREA-6432,Bread,Bakery,25.0,units,0.0,25.0,Created new product 'Bread' with initial stock 25.0 units.
+TXN-1786376432794,2026-08-10 21:10:32,NEW_PRODUCT,PRD-MILK-6432,Milk,Dairy,30.0,l,0.0,30.0,Created new product 'Milk' with initial stock 30.0 l.
+TXN-1786376432787,2026-08-10 21:10:32,MERGE_ADD,PRD-POTA-6432,Potato,Vegetables,20.0,kg,25.0,45.0,Merged +20.0 kg into existing stock (25.0 -> 45.0)
+TXN-1786376432779,2026-08-10 21:10:32,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,35.0,50.0,Merged +15.0 kg into existing stock (35.0 -> 50.0)
+TXN-1786376432769,2026-08-10 21:10:32,NEW_PRODUCT,PRD-POTA-6432,Potato,Vegetables,25.0,kg,0.0,25.0,Created new product 'Potato' with initial stock 25.0 kg.
+TXN-1786376432700,2026-08-10 21:10:32,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,20.0,35.0,Merged +15.0 kg into existing stock (20.0 -> 35.0)
+TXN-1786376414175,2026-08-10 21:10:14,MERGE_ADD,PRD-TOM-CYC,Tomato,Vegetables,15.0,units,20.0,35.0,Merged +15.0 units into existing stock (20.0 -> 35.0)
+TXN-1786376414170,2026-08-10 21:10:14,SALE,PRD-TOMATO-01,Tomato,Vegetables,-20.0,kg,50.0,30.0,Sold 20.0 kg under Bill BILL-1786376414164. Remaining stock: 30.0 kg.
+TXN-1786376414107,2026-08-10 21:10:14,NEW_PRODUCT,PRD-BREA-6414,Bread,Bakery,25.0,units,0.0,25.0,Created new product 'Bread' with initial stock 25.0 units.
+TXN-1786376414101,2026-08-10 21:10:14,NEW_PRODUCT,PRD-MILK-6414,Milk,Dairy,30.0,l,0.0,30.0,Created new product 'Milk' with initial stock 30.0 l.
+TXN-1786376414094,2026-08-10 21:10:14,MERGE_ADD,PRD-POTA-6414,Potato,Vegetables,20.0,kg,25.0,45.0,Merged +20.0 kg into existing stock (25.0 -> 45.0)
+TXN-1786376414088,2026-08-10 21:10:14,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,35.0,50.0,Merged +15.0 kg into existing stock (35.0 -> 50.0)
+TXN-1786376414077,2026-08-10 21:10:14,NEW_PRODUCT,PRD-POTA-6414,Potato,Vegetables,25.0,kg,0.0,25.0,Created new product 'Potato' with initial stock 25.0 kg.
+TXN-1786376414018,2026-08-10 21:10:14,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,20.0,35.0,Merged +15.0 kg into existing stock (20.0 -> 35.0)
+TXN-1786376391000,2026-08-10 21:09:51,NEW_PRODUCT,PRD-BREA-6390,Bread,Bakery,25.0,units,0.0,25.0,Created new product 'Bread' with initial stock 25.0 units.
+TXN-1786376390991,2026-08-10 21:09:50,NEW_PRODUCT,PRD-MILK-6390,Milk,Dairy,30.0,l,0.0,30.0,Created new product 'Milk' with initial stock 30.0 l.
+TXN-1786376390983,2026-08-10 21:09:50,MERGE_ADD,PRD-POTA-6390,Potato,Vegetables,20.0,kg,25.0,45.0,Merged +20.0 kg into existing stock (25.0 -> 45.0)
+TXN-1786376390974,2026-08-10 21:09:50,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,35.0,50.0,Merged +15.0 kg into existing stock (35.0 -> 50.0)
+TXN-1786376390961,2026-08-10 21:09:50,NEW_PRODUCT,PRD-POTA-6390,Potato,Vegetables,25.0,kg,0.0,25.0,Created new product 'Potato' with initial stock 25.0 kg.
+TXN-1786376390855,2026-08-10 21:09:50,MERGE_ADD,PRD-TOMATO-01,Tomato,Vegetables,15.0,kg,20.0,35.0,Merged +15.0 kg into existing stock (20.0 -> 35.0)

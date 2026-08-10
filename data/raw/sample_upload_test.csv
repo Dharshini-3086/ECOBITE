@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Current_Stock,Historical_Sales,Daily_Sales,Selling_Price,Previous_Discount,Sales_During_Discount,Season,Month,Days_to_Expiry,Supplier_Lead_Time,Promotion,Waste_Label
+PRD-9999,Sunscreen Lotion SPF 50,Personal Care,140,100,7.0,500.0,10.0,8.5,Summer,6,15,5,1,1
+PRD-1002,Fresh Whole Milk 1L,Dairy,16,726,27.8,58.78,10.0,32.0,Spring,3,1,10,0,0
+PRD-1003,Whole Wheat Bread,Bakery,8,706,19.7,46.39,15.0,24.1,Spring,2,1,5,0,0
+PRD-1004,Fresh Orange Juice 1L,Beverage,98,381,12.9,126.01,10.0,14.8,Monsoon,8,2,2,1,1
+PRD-1005,Butter Biscuits 200g,Pantry,108,688,20.3,30.12,5.0,21.8,Spring,3,9,7,1,0
+PRD-1006,Basmati Rice 5kg,Pantry,2030,224,7.1,651.35,0.0,7.1,Winter,1,128,3,1,1
+PRD-1007,Anti-Dandruff Shampoo,Personal Care,47,243,7.8,287.13,0.0,7.8,Spring,10,1,14,1,1
+PRD-1008,Moisturizing Face Cream,Personal Care,64,70,2.6,374.85,15.0,3.2,Summer,5,35,10,0,0
+PRD-1009,Greek Yogurt Strawberries,Dairy,216,494,17.4,91.38,10.0,20.0,Summer,4,6,14,0,1
+PRD-1010,Refined Cooking Oil 1L,Pantry,480,340,10.1,170.17,5.0,10.9,Summer,6,81,2,0,0
+PRD-1011,Fresh Watermelon,Produce,29,544,18.5,154.66,5.0,19.9,Monsoon,8,2,3,1,0
+PRD-1012,Fresh Strawberries 250g,Produce,57,451,13.3,168.04,15.0,16.3,Spring,10,1,14,1,1
+PRD-1013,Vanilla Ice Cream 500ml,Frozen,601,672,22.3,200.47,20.0,29.0,Summer,5,15,5,0,0
+PRD-1014,Organic Salad Mix,Produce,35,275,8.5,87.62,0.0,8.5,Spring,10,5,3,0,0
+PRD-1015,Cheddar Cheese Block,Dairy,507,278,9.0,241.85,25.0,12.4,Spring,3,22,3,1,1
+PRD-1016,Potato Chips Salted,Pantry,547,530,20.8,39.2,0.0,20.8,Spring,2,29,2,0,0
+PRD-1017,Cold Carbonated Drink 2L,Beverage,145,433,13.4,93.55,10.0,15.4,Monsoon,7,14,7,0,0
+PRD-1018,Laundry Detergent 1kg,Household,1457,283,9.4,173.21,25.0,12.9,Winter,1,203,7,0,0
+PRD-1019,Salted Butter 500g,Dairy,270,322,12.3,285.56,0.0,12.3,Winter,12,11,2,0,1
+PRD-1020,Fresh Red Apples 1kg,Produce,63,265,10.8,158.84,25.0,14.9,Monsoon,9,2,10,0,1
+PRD-1021,Sunscreen Lotion SPF 50,Personal Care,172,152,6.0,478.13,25.0,8.2,Summer,6,14,14,0,0
+PRD-1022,Fresh Whole Milk 1L,Dairy,78,986,34.1,56.5,5.0,36.7,Monsoon,9,3,7,1,0
+PRD-1023,Whole Wheat Bread,Bakery,83,655,23.0,41.11,15.0,28.2,Spring,3,1,3,0,1
+PRD-1024,Fresh Orange Juice 1L,Beverage,7,561,18.0,116.78,5.0,19.3,Summer,4,1,14,0,0
+PRD-1025,Butter Biscuits 200g,Pantry,2222,669,19.4,27.28,0.0,19.4,Monsoon,7,180,3,1,0
+PRD-1026,Basmati Rice 5kg,Pantry,3693,158,6.2,707.2,10.0,7.1,Spring,3,273,7,0,1
+PRD-1027,Anti-Dandruff Shampoo,Personal Care,540,213,6.9,282.24,10.0,7.9,Monsoon,8,30,7,0,0
+PRD-1028,Moisturizing Face Cream,Personal Care,395,148,4.2,350.04,25.0,5.8,Monsoon,9,47,2,0,1
+PRD-1029,Greek Yogurt Strawberries,Dairy,45,258,9.2,91.87,10.0,10.6,Winter,1,8,10,0,0
+PRD-1030,Refined Cooking Oil 1L,Pantry,444,320,11.7,153.53,20.0,15.2,Summer,5,46,2,0,0
+PRD-1031,Fresh Watermelon,Produce,11,377,15.0,138.52,0.0,15.0,Monsoon,9,1,3,0,0
+PRD-1032,Fresh Strawberries 250g,Produce,5,153,5.0,188.7,20.0,6.5,Summer,4,1,14,0,0
+PRD-1033,Vanilla Ice Cream 500ml,Frozen,230,242,9.0,234.11,15.0,11.0,Winter,11,36,7,0,0
+PRD-1034,Organic Salad Mix,Produce,6,230,7.3,86.06,25.0,10.0,Spring,10,1,2,0,0
+PRD-1035,Cheddar Cheese Block,Dairy,65,110,3.7,274.03,0.0,3.7,Summer,4,3,7,0,1
+PRD-1036,Potato Chips Salted,Pantry,1539,712,26.9,40.94,20.0,35.0,Spring,10,34,10,1,1
+PRD-1037,Cold Carbonated Drink 2L,Beverage,225,357,11.2,103.97,25.0,15.4,Winter,1,25,3,0,0
+PRD-1038,Laundry Detergent 1kg,Household,3586,232,8.4,188.96,0.0,8.4,Winter,1,318,3,0,0
+PRD-1039,Salted Butter 500g,Dairy,86,460,14.7,291.75,0.0,14.7,Winter,1,12,10,1,0
+PRD-1040,Fresh Red Apples 1kg,Produce,5,283,9.8,170.28,20.0,12.7,Monsoon,9,1,5,0,0
+PRD-1041,Sunscreen Lotion SPF 50,Personal Care,445,205,6.7,459.45,10.0,7.7,Summer,5,45,14,0,0
+PRD-1042,Fresh Whole Milk 1L,Dairy,14,865,27.6,57.45,20.0,35.9,Winter,11,1,5,0,0
+PRD-1043,Whole Wheat Bread,Bakery,85,867,30.2,44.24,25.0,41.5,Winter,12,1,7,1,1
+PRD-1044,Fresh Orange Juice 1L,Beverage,108,362,13.1,127.3,15.0,16.0,Spring,2,10,7,0,0
+PRD-1045,Butter Biscuits 200g,Pantry,1767,399,15.8,28.44,20.0,20.5,Monsoon,7,124,2,0,0
+PRD-1046,Basmati Rice 5kg,Pantry,413,216,7.9,695.8,25.0,10.9,Summer,5,68,3,1,0
+PRD-1047,Anti-Dandruff Shampoo,Personal Care,723,210,8.6,272.15,10.0,9.9,Monsoon,8,118,14,1,0
+PRD-1048,Moisturizing Face Cream,Personal Care,80,141,4.2,377.96,0.0,4.2,Spring,10,32,2,0,0
+PRD-1049,Greek Yogurt Strawberries,Dairy,119,517,15.0,81.15,20.0,19.5,Monsoon,8,9,3,1,0
+PRD-1050,Refined Cooking Oil 1L,Pantry,1517,274,9.3,164.13,5.0,10.0,Monsoon,7,118,10,0,1
